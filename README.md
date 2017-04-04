@@ -1,6 +1,6 @@
 # Angular2-WebPack-Template
 
-Template to start Angular2 using webpack
+Starterkit for Angular2 using webpack
 
 # Commands available to use
 
